@@ -1,7 +1,5 @@
 # YOLO でラーメン丼顔フラッシュクイズを再現してみる
 
-入佐啓士
-
 ## やったこと
 
 自作データセットを準備して、YOLO を学習し自作データの画像分類ができるようにする。具体的には、ラーメン屋 14 件のラーメンの画像を分類できるようにする。これは youtuber [SUSURUTV](https://www.youtube.com/channel/UCXcjvt8cOfwtcqaMeE7-hqA)の[丼顔フラッシュクイズ](https://youtube.com/shorts/S5ahUozhAqU?si=BvQSZtQaaD_Hxl1t)にインスピレーションを受けたものである。
